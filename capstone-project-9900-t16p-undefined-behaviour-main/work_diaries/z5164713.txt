@@ -1,0 +1,53 @@
+# z5164713 Project Work Diary
+## Week 1
+
+Currently scrum master, created Jira and teams channel. Modified and added some of the user stories. Created wireframe of user interface and flow. 
+
+
+## Week 2
+
+Added ratings and recommendations user stories.
+Organised user stories into the 3 sprints.
+Created git repository, added basic file structure.
+
+### Proposal Work
+ - Created finalised user interface and flow diagrams using PenPot. Added diagrams to document along with commentary
+ - Copied Jira screenshots into document, added some commentary
+ - Added Sprint commentary
+ - Declared libraries and tools used for front-end development
+
+ ## Week 3
+ Continued work on proposal mainly editing and formating. Reorganised system architecture diagram and frontend tooling sections. 
+
+ ## Week 4
+ Implemented all frontend files for the first sprint. Manager menu creation and update. Fixed minor bugs and syntax errors on backend.
+
+ ## Week 5
+ Worked on and submitted the retrospective A. Refactored some frontend code to be more reusable in preparation for spint 2.
+
+ ## Week 6
+ Flex week.
+
+ ## Week 7 
+ Completed all frontend files for customer ordering functionality. 
+
+ ## Week 8
+ Completed all frontend files for kitchen and wait staff functionality.
+ Worked on and submitted retrospective B.
+
+ ## Week 9 
+Completed analytics page for frontend, fixed some issues with backend analytics routes.
+Improved user interface and experience:
+    - Loading spinners on first time page loads and refreshes
+    - Theme toggles to all non-customer pages
+    - Tooltips for buttons with no text
+    - Moved from storing auth tokens in browser storage to using HTTP cookies
+
+ ## Week 10
+ General bug fixes, frontend UI/UX improvements, demo preparation.
+ Setup frontend setup file for submission.
+ Project report, frontend implementation details and libraries used sections.
+
+ ## Overall
+ Responsible for creating all frontend (.ts) files, as well as fixing syntax issues on the backend.
+

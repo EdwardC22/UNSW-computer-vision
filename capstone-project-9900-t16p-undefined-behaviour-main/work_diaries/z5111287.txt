@@ -1,0 +1,46 @@
+z5111287
+
+Week 1
+
+Formed a group of 4 and create a team in Microsoft Teams. Chose Wait Management System as our project and decide the sprint structure as 3 sprint.
+
+Week 2
+
+Draw the interface diagram and system architecture graph for the proposal
+
+Editing the user stories in Jira
+
+Week 3
+
+Start learning Flask, Continued work on proposal editing
+
+Week 4
+
+Finished learning Flask and help the team members to implement the manager login and register function and add JWT.
+
+Week 5
+
+Worked on Retrospective A
+
+Began implementation of the kitchen function (mark order in-progress and completed)
+
+Week 6
+
+Did some debugging for the backend
+
+Week 7
+
+Backend for sprint 2 was completed, start learning for sprint 3.
+
+Week 8
+
+Worked on Retrospective B
+
+
+Week 9
+
+Implemented the income analytics ( hourly, daily, montly) function for the backend.
+
+Week 10
+
+Final demo presentation, final report writing.

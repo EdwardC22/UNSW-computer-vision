@@ -1,0 +1,39 @@
+z5111402
+
+Week 1
+
+Chose Wait Management System as our project and decide the sprint structure as 3 sprint.
+
+Week 2
+
+Draw the system flow diagram and participated system architecture for the proposal
+
+Week 3
+
+Start to learn how to use postgresql and flask, Continued work on proposal editing
+
+Week 4
+
+Finished learning Flask and Did some debugging for the backend
+
+Week 5
+
+Worked on Retrospective A
+
+Began implementation and did debugging for the kitchen function (mark order in-progress and completed)
+
+Week 7
+
+Backend for sprint 2 was completed, start learning for sprint 3.
+
+Week 8
+
+Worked on Retrospective B
+
+Week 9
+
+Implemented the popular items analytics function based on the  order frequency of each item for the backend.
+
+Week 10
+
+Final demo presentation, final report writing.

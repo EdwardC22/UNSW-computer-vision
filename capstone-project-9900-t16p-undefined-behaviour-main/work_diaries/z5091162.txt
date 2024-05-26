@@ -1,0 +1,43 @@
+z5091162
+
+Week 1
+
+Missed out on the opportunity to contibute in the first week due to complications in finding a group
+
+Week 2
+
+Wrote the background for the proposal
+
+Contributed to general editing and formatting for the proposal
+
+Began learning Flask as to be able to contribute to backend implementation
+
+Discussed functions and novel functions to implement into the system with the group
+
+Week 3
+
+Finished learning Flask and began implementing user stories into the backend, specifically sorting functionality for categories and items
+
+Week 4
+
+Continuing to implement user stories into the backend, specifically staff login functionality
+
+Week 5
+
+Worked on Retrospective A
+
+Began implementation of customer assistance and ordering (ultimately scrapped before commit)
+
+Week 6
+
+Implemented time-sorted list of customer orders into backend
+
+Week 8, 9
+
+Worked on Retrospective B
+
+Worked on implementing various analytics functions
+
+Week 10
+
+Worked on code clean up & the final report
